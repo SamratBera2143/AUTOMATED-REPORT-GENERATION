@@ -31,3 +31,6 @@ Features:
 - Simple, efficient, and easy to customize.
   
 This task enhanced my understanding of Python file handling, data manipulation using Pandas, and PDF generation using ReportLab. It also strengthened my skills in automation and real-world application development, making the reporting process faster, more accurate, and user-friendly.
+
+*OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e937c49c-8445-43fd-a52b-a2fef6d0db5a" />
