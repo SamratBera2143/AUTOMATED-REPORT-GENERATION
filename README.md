@@ -29,4 +29,5 @@ Features:
 - Calculates summary statistics.
 - Generates a professionally formatted PDF report.
 - Simple, efficient, and easy to customize.
+  
 This task enhanced my understanding of Python file handling, data manipulation using Pandas, and PDF generation using ReportLab. It also strengthened my skills in automation and real-world application development, making the reporting process faster, more accurate, and user-friendly.
